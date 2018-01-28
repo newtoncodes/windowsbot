@@ -1,0 +1,12 @@
+{
+  "name": "windowsbot",
+  "version": "0.0.8",
+  "description": "Windows automation library. Used for automating apps that don't want to be automated.",
+  "main": "index.js",
+  "author": "Christian Nikolov",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "commander": "^2.9.0"
+  }
+}

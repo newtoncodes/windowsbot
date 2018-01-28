@@ -1,0 +1,15 @@
+.git
+.idea
+todo
+*.log
+node_modules/*
+vs/.vs
+vs/Debug
+vs/headers
+vs/input
+vs/ipch
+vs/src
+vs/windows
+vs/screener.sdf
+vs/screener.sln
+vs/screener.vc*

@@ -1,0 +1,12 @@
+.idea
+todo
+*.log
+node_modules/*
+vs/Win32/Release/*
+!vs/Win32/Release/input.node
+!vs/Win32/Release/screener.node
+!vs/Win32/Release/windows.node
+vs/x64/Release/*
+!vs/x64/Release/input.node
+!vs/x64/Release/screener.node
+!vs/x64/Release/windows.node
